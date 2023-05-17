@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87843810f1ac8b5449f4beecd6116a0c, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  animatorOverride: {fileID: 22100000, guid: 24066fb7130f7cd42a2b195e9ef60a82, type: 2}
+  equippedPrefab: {fileID: 0}
+  WeaponRange: 10
+  WeaponDamage: 0
+  WeaponPercentageBonusDamage: 100
+  isRightHanded: 0
+  projectile: {fileID: 1668347789, guid: fb58dca6fdb6afc45992bd069f2f3f52, type: 3}
